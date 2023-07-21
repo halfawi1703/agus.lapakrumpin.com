@@ -7,7 +7,7 @@
                   <h1>Solusi Untuk Peralatan Elektronik Rumah Anda</h1>
                   <h2>Silahkan konsultasikan tentang barang elektronik di rumah Anda, Kami siap memperbaiki!</h2>
                   <div class="d-flex justify-content-center justify-content-lg-start">
-                      <a href="#about" class="btn-get-started scrollto">Hubungi</a>
+                      <a href="https://api.whatsapp.com/send?phone=6281932594359" class="btn-get-started scrollto" target="_blank">Hubungi</a>
                       <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
                   </div>
               </div>
@@ -46,7 +46,7 @@
                       <p>
                       Kepuasan pelanggan adalah prioritas utama kami. Kami berkomitmen untuk memberikan layanan yang handal, tepat waktu, dan berbiaya efektif. Selain itu, kami menggunakan komponen dan suku cadang berkualitas tinggi untuk memastikan keandalan jangka panjang dari peralatan pendingin Anda.
                       </p>
-                      <a href="#" class="btn-learn-more">Hubungi</a>
+                      <a href="https://api.whatsapp.com/send?phone=6281932594359" class="btn-learn-more" target="_blank">Hubungi</a>
                   </div>
               </div>
 
@@ -346,7 +346,7 @@
                           <div class="address">
                               <i class="bi bi-geo-alt"></i>
                               <h4>Location:</h4>
-                              <p>A108 Adam Street, New York, NY 535022</p>
+                              <p>Tangerang Selatan, Ciputat Timur</p>
                           </div>
 
                           <div class="email">
@@ -358,7 +358,7 @@
                           <div class="phone">
                               <i class="bi bi-phone"></i>
                               <h4>Call:</h4>
-                              <p>+1 5589 55488 55s</p>
+                              <p>+62 819-3259-4359</p>
                           </div>
 
                           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
