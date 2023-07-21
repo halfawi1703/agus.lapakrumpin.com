@@ -1,15 +1,15 @@
  <!-- ======= Footer ======= -->
  <footer id="footer">
-     <div class="footer-top" style="background-color: #f3f5fa !important;">
+     <div class="footer-top">
          <div class="container">
              <div class="row">
 
                  <div class="col-lg-3 col-md-6 footer-contact">
-                     <h3>Arsha</h3>
+                     <h3>Agus Service</h3>
                      <p>
-                         A108 Adam Street <br>
-                         New York, NY 535022<br>
-                         United States <br><br>
+                         Jl. Beruang 2 No. 80 <br>
+                         Tangerang Selatan, Ciputat Timur<br>
+                         Pondok Ranji <br><br>
                          <strong>Phone:</strong> +1 5589 55488 55<br>
                          <strong>Email:</strong> info@example.com<br>
                      </p>
@@ -21,25 +21,22 @@
                          <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
                          <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
                          <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                         <li><i class="bx bx-chevron-right"></i> <a href="#">Portfolio</a></li>
                      </ul>
                  </div>
 
                  <div class="col-lg-3 col-md-6 footer-links">
                      <h4>Our Services</h4>
                      <ul>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                         <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                         <li><i class="bx bx-chevron-right"></i> <a href="#">Jual Beli AC</a></li>
+                         <li><i class="bx bx-chevron-right"></i> <a href="#">Jual Beli Kulkas</a></li>
+                         <li><i class="bx bx-chevron-right"></i> <a href="#">Jual Beli Alat Elektronik Rumah</a></li>
                      </ul>
                  </div>
 
                  <div class="col-lg-3 col-md-6 footer-links">
                      <h4>Our Social Networks</h4>
-                     <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+                     <p>Anda bisa juga mengubungi Kami melalui Sosial Media</p>
                      <div class="social-links mt-3">
                          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

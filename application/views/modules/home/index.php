@@ -26,28 +26,27 @@
           <div class="container" data-aos="fade-up">
 
               <div class="section-title">
-                  <h2>About Us</h2>
+                  <h2>Tentang Kami</h2>
               </div>
 
               <div class="row content">
                   <div class="col-lg-6">
                       <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                          magna aliqua.
+                          Agus Service adalah penyedia layanan profesional untuk perawatan, perbaikan, dan instalasi sistem pendingin udara (AC) dan kulkas. Sebagai perusahaan yang berkomitmen untuk memberikan kualitas terbaik, kami telah beroperasi selama bertahun-tahun dan menjadi pilihan utama bagi banyak pelanggan di Tangerang Selatan dan sekitarnya.
                       </p>
+                      <p>Mengapa Memilih Kami?</p>
                       <ul>
-                          <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-                          <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-                          <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+                          <li><i class="ri-check-double-line"></i> Tim profesional dengan pengalaman luas dan keterampilan teknis yang unggul.</li>
+                          <li><i class="ri-check-double-line"></i> Layanan lengkap untuk semua jenis dan merek AC dan kulkas.</li>
+                          <li><i class="ri-check-double-line"></i> Penanganan masalah cepat dan akurat.</li>
+                          <li><i class="ri-check-double-line"></i> Harga yang kompetitif dan transparan.</li>
                       </ul>
                   </div>
                   <div class="col-lg-6 pt-4 pt-lg-0">
                       <p>
-                          Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                          velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                          culpa qui officia deserunt mollit anim id est laborum.
+                      Kepuasan pelanggan adalah prioritas utama kami. Kami berkomitmen untuk memberikan layanan yang handal, tepat waktu, dan berbiaya efektif. Selain itu, kami menggunakan komponen dan suku cadang berkualitas tinggi untuk memastikan keandalan jangka panjang dari peralatan pendingin Anda.
                       </p>
-                      <a href="#" class="btn-learn-more">Learn More</a>
+                      <a href="#" class="btn-learn-more">Hubungi</a>
                   </div>
               </div>
 
@@ -63,37 +62,46 @@
                   <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                       <div class="content">
-                          <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+                          <h3><strong>Layanan Kami</strong></h3>
                           <p>
-                              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                              Berikut adalah layanan yang Kami tawarkan untuk Anda.
                           </p>
                       </div>
 
                       <div class="accordion-list">
                           <ul>
                               <li>
-                                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Perawatan Rutin AC dan Kulkas <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                                   <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
                                       <p>
-                                          Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                                          Perawatan rutin sangat penting untuk menjaga performa optimal dari sistem pendingin Anda. Tim kami siap membantu Anda menjaga peralatan AC dan kulkas agar tetap berfungsi dengan baik dan tahan lama.
                                       </p>
                                   </div>
                               </li>
 
                               <li>
-                                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Perbaikan dan Troubleshooting <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                                       <p>
-                                          Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                          Jika AC atau kulkas Anda mengalami masalah, jangan ragu untuk menghubungi kami. Tim kami akan dengan cepat mendiagnosis masalah dan melakukan perbaikan dengan presisi dan efisiensi tinggi.
                                       </p>
                                   </div>
                               </li>
 
                               <li>
-                                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Instalasi AC dan Kulkas <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                                   <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
                                       <p>
-                                          Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                          Memasang unit AC atau kulkas dengan benar sangat krusial untuk mendapatkan hasil maksimal. Kami menawarkan jasa instalasi profesional untuk memastikan pemasangan yang tepat dan aman.
+                                      </p>
+                                  </div>
+                              </li>
+
+                              <li>
+                                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4" class="collapsed"><span>04</span> Pembersihan dan Pengisian Refrigeran <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                                  <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                                      <p>
+                                          Pembersihan berkala dan pengisian refrigeran yang tepat adalah bagian penting dari perawatan AC dan kulkas. Tim kami akan melakukan pembersihan menyeluruh dan mengisi refrigeran dengan cermat.
                                       </p>
                                   </div>
                               </li>
@@ -109,130 +117,13 @@
           </div>
       </section><!-- End Why Us Section -->
 
-      <!-- ======= Skills Section ======= -->
-      <section id="skills" class="skills">
-          <div class="container" data-aos="fade-up">
-
-              <div class="row">
-                  <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                      <img src="<?php echo base_url('assets') ?>/img/skills.png" class="img-fluid" alt="">
-                  </div>
-                  <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-                      <h3>Voluptatem dignissimos provident quasi corporis voluptates</h3>
-                      <p class="fst-italic">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                          magna aliqua.
-                      </p>
-
-                      <div class="skills-content">
-
-                          <div class="progress">
-                              <span class="skill">HTML <i class="val">100%</i></span>
-                              <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                          </div>
-
-                          <div class="progress">
-                              <span class="skill">CSS <i class="val">90%</i></span>
-                              <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                          </div>
-
-                          <div class="progress">
-                              <span class="skill">JavaScript <i class="val">75%</i></span>
-                              <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                          </div>
-
-                          <div class="progress">
-                              <span class="skill">Photoshop <i class="val">55%</i></span>
-                              <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                              </div>
-                          </div>
-
-                      </div>
-
-                  </div>
-              </div>
-
-          </div>
-      </section><!-- End Skills Section -->
-
-      <!-- ======= Services Section ======= -->
-      <section id="services" class="services section-bg">
-          <div class="container" data-aos="fade-up">
-
-              <div class="section-title">
-                  <h2>Services</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-              </div>
-
-              <div class="row">
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-                      <div class="icon-box">
-                          <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                          <h4><a href="">Lorem Ipsum</a></h4>
-                          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-                      </div>
-                  </div>
-
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-                      <div class="icon-box">
-                          <div class="icon"><i class="bx bx-file"></i></div>
-                          <h4><a href="">Sed ut perspici</a></h4>
-                          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                      </div>
-                  </div>
-
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-                      <div class="icon-box">
-                          <div class="icon"><i class="bx bx-tachometer"></i></div>
-                          <h4><a href="">Magni Dolores</a></h4>
-                          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-                      </div>
-                  </div>
-
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-                      <div class="icon-box">
-                          <div class="icon"><i class="bx bx-layer"></i></div>
-                          <h4><a href="">Nemo Enim</a></h4>
-                          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-                      </div>
-                  </div>
-
-              </div>
-
-          </div>
-      </section><!-- End Services Section -->
-
-      <!-- ======= Cta Section ======= -->
-      <section id="cta" class="cta">
-          <div class="container" data-aos="zoom-in">
-
-              <div class="row">
-                  <div class="col-lg-9 text-center text-lg-start">
-                      <h3>Call To Action</h3>
-                      <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                  </div>
-                  <div class="col-lg-3 cta-btn-container text-center">
-                      <a class="cta-btn align-middle" href="#">Call To Action</a>
-                  </div>
-              </div>
-
-          </div>
-      </section><!-- End Cta Section -->
-
       <!-- ======= Portfolio Section ======= -->
       <section id="portfolio" class="portfolio">
           <div class="container" data-aos="fade-up">
 
               <div class="section-title">
                   <h2>Portfolio</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>Kami berharap dapat menjadi mitra tepercaya Anda dalam merawat, memperbaiki, dan menginstal AC dan kulkas. Jangan ragu untuk menghubungi kami untuk informasi lebih lanjut atau untuk membuat janji layanan. Terima kasih telah memilih Agus Service sebagai pilihan Anda. Berikut adalah dokumentasi hasil kerja Kami</p>
               </div>
 
               <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
@@ -339,58 +230,96 @@
           </div>
       </section><!-- End Portfolio Section -->
 
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services section-bg">
+          <div class="container" data-aos="fade-up">
+
+              <div class="section-title">
+                  <h2>Services</h2>
+                  <p>Kami adalah penyedia layanan profesional untuk AC dan kulkas dengan pengalaman bertahun-tahun dalam industri ini. Layanan kami meliputi perawatan rutin, perbaikan, instalasi, dan pembersihan untuk memastikan peralatan Anda berfungsi dengan optimal. Tim teknisi berpengalaman kami siap memberikan solusi cepat dan efisien untuk menjaga kenyamanan dan kesegaran udara di dalam ruangan Anda. Percayakan perawatan AC dan kulkas Anda kepada kami, dan nikmati lingkungan yang sejuk, bersih, dan nyaman setiap saat.</p>
+              </div>
+
+              <div class="row">
+                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                      <div class="icon-box">
+                          <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                          <h4><a href="">Service AC</a></h4>
+                          <p>Layanan Service AC adalah proses perawatan dan perbaikan yang dilakukan untuk menjaga performa optimal dan kinerja AC Anda</p>
+                      </div>
+                  </div>
+
+                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                      <div class="icon-box">
+                          <div class="icon"><i class="bx bx-file"></i></div>
+                          <h4><a href="">Service Kulkas</a></h4>
+                          <p>Layanan Service Kulkas adalah rangkaian tindakan perawatan dan perbaikan yang ditujukan untuk menjaga kinerja optimal dan masa pakai kulkas Anda.</p>
+                      </div>
+                  </div>
+
+                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+                      <div class="icon-box">
+                          <div class="icon"><i class="bx bx-tachometer"></i></div>
+                          <h4><a href="">Jual Elektronik Baru</a></h4>
+                          <p>Kualitas, keandalan, dan kepuasan pelanggan adalah prioritas kami. Jadilah bagian dari komunitas pelanggan kami yang puas dengan berbelanja di Jual Elektronik Baru.</p>
+                      </div>
+                  </div>
+
+                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+                      <div class="icon-box">
+                          <div class="icon"><i class="bx bx-layer"></i></div>
+                          <h4><a href="">Jual Elektronik Bekas </a></h4>
+                          <p>Tim kami siap membantu Anda menemukan produk yang sesuai dengan kebutuhan dan preferensi Anda.</p>
+                      </div>
+                  </div>
+
+              </div>
+
+          </div>
+      </section><!-- End Services Section -->
+
       <!-- ======= Frequently Asked Questions Section ======= -->
-      <section id="faq" class="faq section-bg">
+      <section id="faq" class="faq section-bg" style="background-color:white">
           <div class="container" data-aos="fade-up">
 
               <div class="section-title">
                   <h2>Frequently Asked Questions</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan lebih lanjut atau ingin menjadwalkan layanan AC. Tim kami akan dengan senang hati membantu Anda dengan kebutuhan perawatan dan perbaikan AC Anda. Terima kasih telah menghubungi Agus Service.</p>
               </div>
 
               <div class="faq-list">
                   <ul>
                       <li data-aos="fade-up" data-aos-delay="100">
-                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Berapa lama waktu yang diperlukan untuk melakukan layanan AC? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                           <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                               <p>
-                                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                                  Waktu yang diperlukan untuk melakukan layanan AC dapat bervariasi tergantung pada jenis layanan yang dilakukan dan kondisi AC. Namun, secara umum, layanan AC biasanya memakan waktu antara 1 hingga 2 jam.
                               </p>
                           </div>
                       </li>
 
                       <li data-aos="fade-up" data-aos-delay="200">
-                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Apakah layanan AC meliputi perbaikan jika AC mengalami masalah? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                           <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                               <p>
-                                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                  Ya, layanan AC dapat meliputi perbaikan jika AC mengalami masalah. Selama proses layanan, teknisi akan melakukan pemeriksaan menyeluruh terhadap AC untuk mengidentifikasi masalah dan melakukan perbaikan yang diperlukan. Namun, untuk perbaikan yang lebih kompleks, mungkin diperlukan waktu tambahan.
                               </p>
                           </div>
                       </li>
 
                       <li data-aos="fade-up" data-aos-delay="300">
-                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Apa jenis AC dan merek AC yang dapat di layani oleh perusahaan Anda? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                           <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                               <p>
-                                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                  Perusahaan kami dapat melayani berbagai jenis AC, termasuk AC split, AC window, AC portable, dan AC sentral. Kami juga dapat melayani berbagai merek AC ternama dan populer di pasaran.
                               </p>
                           </div>
                       </li>
 
                       <li data-aos="fade-up" data-aos-delay="400">
-                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Apakah ada program layanan berkala yang dapat saya langganan untuk mendapatkan harga lebih terjangkau? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                           <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                               <p>
-                                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
-                              </p>
-                          </div>
-                      </li>
-
-                      <li data-aos="fade-up" data-aos-delay="500">
-                          <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                          <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                              <p>
-                                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                                  Ya, kami menawarkan program layanan berkala yang dapat Anda langganan untuk mendapatkan harga yang lebih terjangkau dan layanan yang terjadwal secara rutin. Program ini akan membantu Anda menjaga kinerja AC secara optimal dan mencegah masalah yang lebih serius di masa depan.
                               </p>
                           </div>
                       </li>
@@ -402,17 +331,17 @@
       </section><!-- End Frequently Asked Questions Section -->
 
       <!-- ======= Contact Section ======= -->
-      <section id="contact" class="contact">
+      <section id="contact" class="contact" style="background-color: #f3f5fa;">
           <div class="container" data-aos="fade-up">
 
               <div class="section-title">
                   <h2>Contact</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>Hubungi kami sekarang untuk menjadwalkan layanan AC dan kulkas Anda. Nikmati lingkungan yang nyaman dan makanan yang segar dengan menggunakan layanan kami. Percayakan perawatan perangkat elektronik Anda kepada kami, dan Anda tidak akan kecewa!</p>
               </div>
 
               <div class="row">
 
-                  <div class="col-lg-5 d-flex align-items-stretch">
+                  <div class="col-lg-12 d-flex align-items-stretch">
                       <div class="info">
                           <div class="address">
                               <i class="bi bi-geo-alt"></i>
@@ -436,36 +365,6 @@
                       </div>
 
                   </div>
-
-                  <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                      <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                          <div class="row">
-                              <div class="form-group col-md-6">
-                                  <label for="name">Your Name</label>
-                                  <input type="text" name="name" class="form-control" id="name" required>
-                              </div>
-                              <div class="form-group col-md-6">
-                                  <label for="name">Your Email</label>
-                                  <input type="email" class="form-control" name="email" id="email" required>
-                              </div>
-                          </div>
-                          <div class="form-group">
-                              <label for="name">Subject</label>
-                              <input type="text" class="form-control" name="subject" id="subject" required>
-                          </div>
-                          <div class="form-group">
-                              <label for="name">Message</label>
-                              <textarea class="form-control" name="message" rows="10" required></textarea>
-                          </div>
-                          <div class="my-3">
-                              <div class="loading">Loading</div>
-                              <div class="error-message"></div>
-                              <div class="sent-message">Your message has been sent. Thank you!</div>
-                          </div>
-                          <div class="text-center"><button type="submit">Send Message</button></div>
-                      </form>
-                  </div>
-
               </div>
 
           </div>
